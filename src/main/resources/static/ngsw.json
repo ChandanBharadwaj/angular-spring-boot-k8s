@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1595446663992,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/4.8a2e8629e3892f5d4137.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.2626bac50cbf29e999e5.js",
+        "/manifest.webmanifest",
+        "/polyfills.a4021de53358bb0fec14.js",
+        "/runtime.0a352b89aa677e780a6f.js",
+        "/styles.7fabb8362bbb63423e3f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/chocolates/baker.jpg",
+        "/assets/chocolates/cacaoextra-dark.jpg",
+        "/assets/chocolates/cadbury-dairy-milk.jpg",
+        "/assets/chocolates/cappuccino.png",
+        "/assets/chocolates/ghirardelli.jpg",
+        "/assets/chocolates/hershey.jpg",
+        "/assets/chocolates/kohler.jpg",
+        "/assets/chocolates/lindor-box.jpg",
+        "/assets/chocolates/lindt.jpg",
+        "/assets/chocolates/perugina.jpg",
+        "/assets/chocolates/stracciatella.png",
+        "/assets/chocolates/swiss-white-almond.jpg",
+        "/assets/chocolates/theo.jpg",
+        "/assets/chocolates/valrhona.jpg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/products.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/4.8a2e8629e3892f5d4137.js": "b950292c9e2fdfd4a16b8170c945eedc30d00190",
+    "/assets/chocolates/baker.jpg": "288ceca4770b1228761b78a32d07dc977efceb01",
+    "/assets/chocolates/cacaoextra-dark.jpg": "7b574f61db8f672d969608ef7fa6776d1878172d",
+    "/assets/chocolates/cadbury-dairy-milk.jpg": "bd61a77a1dd063c68e918d5520490a80ffc64e84",
+    "/assets/chocolates/cappuccino.png": "761c1cdacc051cfc264960818e8611459a418e3c",
+    "/assets/chocolates/ghirardelli.jpg": "65f12b585f3c90fd1860a562e9a7496e818ba6ee",
+    "/assets/chocolates/hershey.jpg": "840564d42501d05e127181831ac9251b5e9024e2",
+    "/assets/chocolates/kohler.jpg": "a6795aeda139faf5bc811da618be47f0a930843f",
+    "/assets/chocolates/lindor-box.jpg": "93ff17b6717df6e7b83558f311f84031c64ee8a8",
+    "/assets/chocolates/lindt.jpg": "b721801231656aa9925d1296616bd83ebb00bca0",
+    "/assets/chocolates/perugina.jpg": "8bc36128a82aea60bb2a6eff383cc1d647992eaa",
+    "/assets/chocolates/stracciatella.png": "9619cc40359b5912dc42162a8e25d228287e9083",
+    "/assets/chocolates/swiss-white-almond.jpg": "d65c33411056f7fd16c829a20d37fae606a9931d",
+    "/assets/chocolates/theo.jpg": "87a08be1701d42c29cf204a6c87eaad0357d3677",
+    "/assets/chocolates/valrhona.jpg": "dae553a6b58875bccb2d639b14828e904e00319b",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/products.json": "dff0462a569c952df54ecddc81d44a5467bd77a1",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "573f73620c838ba5243f691d0eedc4d0e3495cf9",
+    "/main.2626bac50cbf29e999e5.js": "27f39e99bf5b58a4cb914ef26403794589524879",
+    "/manifest.webmanifest": "0984b440c6c52cf0d60536a326752337ae96d0a0",
+    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/runtime.0a352b89aa677e780a6f.js": "961f56b9ea09f46044b7d48b2e159b404bfc266b",
+    "/styles.7fabb8362bbb63423e3f.css": "54f5bafc70ac9e24822b732b295e79fe40823b18"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

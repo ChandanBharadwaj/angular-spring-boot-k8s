@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "productCategory": "milk-Chocolate",
+      "productCategoryDisplayName": "Milk Chocolate",
+      "productItems": [
+        {
+          "productId": "cadbury-dairy-milk",
+          "displayName": "Cadbury Dairy Milk",
+          "productImage": "cadbury-dairy-milk.jpg",
+          "price":10
+        },
+        {
+          "productId": "lindt",
+          "displayName": "Lindt Milk Chocolate ",
+          "productImage": "lindt.jpg",
+          "price":20
+        },
+        {
+          "productId": "hershey",
+          "displayName": "Hershey's Milk Chocolate Bar",
+          "productImage": "hershey.jpg",
+          "price":20
+        },
+        {
+          "productId": "theo",
+          "displayName": "Theo Pure 45% Organic Milk Chocolate",
+          "productImage": "theo.jpg",
+          "price":20
+        },
+        {
+          "productId": "kohler",
+          "displayName": "Kohler Milk Chocolate Bar",
+          "productImage": "kohler.jpg",
+          "price":20
+        }
+      ]
+    },
+    {
+      "productCategory": "white-Chocolate",
+      "productCategoryDisplayName": "White Chocolate",
+      "productItems": [
+        {
+          "productId": "lindor-box",
+          "displayName": "White Chocolate LINDOR Truffles",
+          "productImage": "lindor-box.jpg",
+          "price":20
+        },
+        {
+          "productId": "swiss-white-almond",
+          "displayName": "Large Swiss White Almond",
+          "productImage": "swiss-white-almond.jpg",
+          "price":20
+        },
+        {
+          "productId": "cappuccino",
+          "displayName": "Cappuccino White Chocolate",
+          "productImage": "cappuccino.png",
+          "price":20
+        },
+        {
+          "productId": "stracciatella",
+          "displayName": "Stracciatella White Chocolate",
+          "productImage": "stracciatella.png",
+          "price":20
+        }
+      ]
+    },
+    {
+      "productCategory": "dark-chocolate",
+      "productCategoryDisplayName": "Dark Chocolate",
+      "productItems": [
+        {
+          "productId": "ghirardelli",
+          "displayName": "Ghirardelli Intense Twilight",
+          "productImage": "ghirardelli.jpg",
+          "price":20
+        },
+        {
+          "productId": "cacao-extra-dark",
+          "displayName": "Premium 62% Cacao Extra Candy Bar",
+          "productImage": "cacaoextra-dark.jpg",
+          "price":20
+        },
+        {
+          "productId": "valrhona",
+          "displayName": "Valrhona Guanaja 70% Dark Chocolate",
+          "productImage": "valrhona.jpg",
+          "price":20
+        }
+      ]
+    },
+    {
+      "productCategory": "bittersweet-chocolate",
+      "productCategoryDisplayName": "Bittersweet Chocolate",
+      "productItems": [
+        {
+          "productId": "baker",
+          "displayName": "Baker's Premium Bittersweet Bar",
+          "productImage": "baker.jpg",
+          "price":20
+        },
+        {
+          "productId": "perugina",
+          "displayName": "Perugina Bittersweet Chocolate Bar",
+          "productImage": "perugina.jpg",
+          "price":20
+        }
+      ]
+    }
+  ]
+}
